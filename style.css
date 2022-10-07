@@ -114,9 +114,9 @@ footer #info .titre4 ul li {
     list-style-type: none;
     line-height: 1.8em;
 }
-footer #info .titre4 ul li p {
+#info .titre4 ul li p {
     font-weight: bold;
-    font-style: italic;
+    font-style: italic;font-family: sans-serif;
 }
 footer #info .titre4 ul li a {
     text-decoration: none;
