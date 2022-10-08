@@ -135,4 +135,7 @@ footer #info .titre4 ul li a {
     aside {
         margin-top: -4px;
     }
+    .assist {
+        display: none;
+    }
 }
